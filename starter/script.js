@@ -23,6 +23,8 @@ document.querySelector('.check').addEventListener('click', function () {
   //When no input is passed
   if (!guess) {
     displayMsg('⛔️  No number!');
+  } else if (guess < 1 || guess > 20) {
+    displayMsg('Invalid Input');
   }
   // When the player won the game
   else if (guess === secretNumber) {
