@@ -58,6 +58,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Israel Fitsum - [LinkedIn](https://www.linkedin.com/in/israel-fitsum/) - fafisru@gmail.com
-
-Project Link: [https://github.com/codeXXripper/05-Guess-My-Number](https://https://github.com/codeXXripper/05-Guess-My-Number)
+[LinkedIn](https://www.linkedin.com/in/israel-fitsum/)
