@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple steps:
 git clone https://github.com/codeXXripper/05-Guess-My-Number
 ```
 2. Enjoy the Game! It's that simple :smile:
-
+https://codexxripper.github.io/05-Guess-My-Number/starter/index.html
 
 <!-- CONTRIBUTING -->
 ## Contributing
