@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repo
 ```sh
-git clone https://github.com/codeXXripper/05-Guess-My-Number
+git clone https://github.com/codeXXripper/Guess-My-Number
 ```
 2. Enjoy the Game! It's that simple :smile:
 
