@@ -1,4 +1,4 @@
-# 05-Guess-My-Number
+# Guess-My-Number
  <h2 align="left"> <bold> GUESS-MY-NUMBER </bold> </h2> 
                          
                  🎮   You have to guess a number between 1 to 20    🎮
